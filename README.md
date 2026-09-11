@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) analyse transports, signatures, idempotence, WebSocket et intégration HyperEVM.
+
 # Hyperliquid API TypeScript SDK
 
 [![npm](https://img.shields.io/npm/v/@nktkas/hyperliquid?color=blue)](https://www.npmjs.com/package/@nktkas/hyperliquid)
